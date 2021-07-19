@@ -8,5 +8,7 @@ Running:
 5. Activate your environment: `flopyenv\scripts\activate.bat` 
 6. Install required packages: `pip install -r requirements.txt`
 7. Install jupyterlab: `pip install jupyterlab`
-8. Launch notebook: `jupyter-lab`
+8. `pip install ipykernel`
+9. `python -m ipykernel install --name=flopyenv`
+10. Launch notebook: `jupyter-lab`
 
