@@ -2,7 +2,7 @@
 
 Running:
 1. Clone repository
-2. Make sure you have Python 3 installed, as well as ModFlow 6
+2. Make sure you have Python 3.X installed
 3. In command prompt, navigate to the cloned repository
 4. Create a virtual environment to run the code with: `python3 -m venv flopyenv` or `python -m venv flopyenv` 
 5. Activate your environment: `flopyenv\scripts\activate.bat` 
